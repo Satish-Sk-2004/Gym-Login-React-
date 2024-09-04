@@ -164,8 +164,8 @@ form.sign-in-form {
 .container:before {
   content: "";
   position: absolute;
-  height: 1000px;
-  width: 880px;
+  height: 1060px;
+  width: 920px;
   top: 30%;
   right: 56%;
   transform: translateY(-50%);
